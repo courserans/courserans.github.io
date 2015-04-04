@@ -1,6 +1,4 @@
-# Human Activitiy Recognition : Course Project - Practical Machine Learning
-courserans  
-March 19, 2015  
+# Course Project - Practical Machine Learning
 
 #### Background
 
@@ -165,7 +163,7 @@ g1 <- ggplot(dat1,aes(x=factor(user_name),y=count, fill=classe)) +
 g1
 ```
 
-<img src="project_files/figure-html/unnamed-chunk-7-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="../images/project_files/figure-html/unnamed-chunk-7-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 Fig 2. Correlation plot
 
@@ -174,7 +172,7 @@ Fig 2. Correlation plot
 corrplot(cor(data[,-53])) ## 53 is the classe variable
 ```
 
-<img src="project_files/figure-html/unnamed-chunk-8-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="../images/project_files/figure-html/unnamed-chunk-8-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 Fig 3. Model Results
 
@@ -189,7 +187,7 @@ g2 <- ggplot(head(var.imp,20),aes(x=reorder(feature,Overall),y=Overall)) +
 grid.arrange(g2,plot(model),ncol=2)
 ```
 
-<img src="project_files/figure-html/unnamed-chunk-9-1.png" title="" alt="" style="display: block; margin: auto;" />
+<img src="../images/project_files/figure-html/unnamed-chunk-9-1.png" title="" alt="" style="display: block; margin: auto;" />
 
 Code 1 : Submission code.
 
