@@ -1,6 +1,4 @@
-# Mtcars Analysis
-courserans  
-February 20, 2015  
+## Coursera Project - Linear Regression Models
 
 ### Executive summary
 

@@ -1,4 +1,4 @@
-# Course Project - Practical Machine Learning
+## Coursera Project - Practical Machine Learning
 
 #### Background
 
