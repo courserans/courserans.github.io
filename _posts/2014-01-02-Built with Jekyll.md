@@ -5,7 +5,7 @@ title: Behind the scene : Built with Jekyll, Poole, Gihub
 
 This blog has been built with Jekyll and Poole and hosted on github.com
 
-### Built on Poole
+### Jekyll
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
@@ -17,7 +17,7 @@ Find out more by [visiting the project on GitHub](https://github.com/mojombo/jek
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-### Built on Poole
+### Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
