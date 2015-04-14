@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               R + Data-Science
 tagline:             'The Art and Science of Data'
 description:         'Learning R and Data Science. Made by <a href="https://twitter.com/coursera_ns" target="_blank">@coursera_ns</a>.'
-url:                 http://courserans.github.io
+url:                 https://github.com/courserans
 baseurl:             /
 paginate:            1
 
