@@ -1,7 +1,19 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Behind the scene : Built with Jekyll, Poole, Gihub
 ---
+
+This blog has been built with Jekyll and Poole and hosted on github.com
+
+### Built on Poole
+
+[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+
+  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+
+It's an immensely useful tool and one we encourage you to use here with Hyde.
+
+Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
