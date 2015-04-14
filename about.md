@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I started off as a software engineeer with a CAD product development company writing code in C,C++ & Fortran. Somewhere along the way ... I moved into the program management domain. Currently I lead a large team of talented individuals who create multichannel customer experience  at the intersection of technology and User Centred Design. These projects are mostly for some of the most iconic brands of the world. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+It is during one of these projects that I was exposed to Marketing Analytics  and how Data Driven Marketing is disrupting the traditional brand management and marketing domain in general. Curiosity got the better of me and I enrolled myself in the "Data Science Specialization" from Coursera & "Intro to Statistical Learning" from Stanford Online. 
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+This blog is about my journey of learning R and Data sciences and it's application to Marketing problems. 
 
 Thanks for reading!
